@@ -1,6 +1,8 @@
 /* ======= Base ======= */
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@400;600;700&family=Nunito:wght@400;600;700&display=swap');
+
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: "Nunito", sans-serif;
   color: $text-color-secondary;
   background: $smoky-white;
   font-size: 14px;
@@ -9,13 +11,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-weight: 700;
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Urbanist", sans-serif;
 }
 
 a {
@@ -65,7 +62,7 @@ p {
     margin-bottom: 10px;
   }
   .tagline {
-    color: rgba(256, 256, 256, 0.6);
+    color: $smoky-white;
     font-size: 16px;
     font-weight: 400;
     margin-top: 0;
