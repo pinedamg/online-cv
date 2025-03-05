@@ -11,6 +11,9 @@
         filter: grayscale(1);
         -webkit-filter: greyscale(1);
     }
+    .wrapper {
+      display: block;
+    }
    .main-wrapper .time {
        float: right;
         color: black !important;

@@ -3,8 +3,8 @@ sidebar:
   about: True
   education: True
 
-  name: Mauricio Pineda
-  tagline: Senior Full Stack Developer & Tech Lead
+  name: Mauricio Gaston Pineda
+  tagline: Full Stack Developer | Magento, PHP, Flutter & Ruby | Coding with Passion and Precision
   avatar: profile.jpg
 
   email: pinedamg@gmail.com
@@ -14,6 +14,9 @@ sidebar:
   website: https://pinedamg.github.io
   linkedin: pinedamg
   github: pinedamg
+  twitter: '@pineda_mg'
+  linktree: https://linktr.ee/pinedamg
+  blog: https://pinedamg.medium.com/
 
   languages:
     title: Languages
@@ -27,22 +30,41 @@ sidebar:
     title: Interests
     info:
     - item: Software Architecture
+      link: 
     - item: Blockchain & Cryptocurrencies
+      link: 
     - item: Open Source Development
+      link: 
     - item: Cloud Computing & DevOps
+      link: 
+    - item: AI & Machine Learning Exploration
+      link: 
+    - item: Technical Blogging & Knowledge Sharing
+      link: 
+    - item: Mentoring Junior Developers
+      link: 
+    - item: Running & Fitness
+      link: 
 
 career-profile:
   title: Career Profile
   summary: |
-    Experienced Full Stack Developer with 15+ years in E-commerce solutions. 
-    Specialized in Magento, PHP, Flutter, and Ruby. Passionate about elegant software 
-    design, microservices, and high-performance systems. Strong background in 
-    building scalable applications and leading development teams.
-    Extensive experience in CI/CD, cloud architecture, and security best practices.
+    Hi there! Your presence here means a lot to me, and I genuinely appreciate you taking the time to connect. Let me give you a glimpse into who I am.
+    
+    I’m Mauricio Gastón Pineda, a Full Stack Developer from Tigre, Buenos Aires, Argentina. But more than that, I’m someone who fell in love with programming at an early age. At around 8 years old, I started tinkering with LOGO—the one with the turtle—and would spend hours building creations with Legos, imagining endless possibilities. That passion never left me; it only grew stronger.
+    
+    Over the years, this fascination shaped my career. I embraced a love for elegant software design and best practices, starting with PHP, exploring Zend Framework, and immersing myself in the Magento E-commerce Platform. I’ve been privileged to lead challenging projects, from migrating monolithic architectures to microservices to enhancing security, performance, and scalability for e-commerce businesses.
+    
+    Beyond my deep expertise in Magento, PHP, Flutter, Ruby, and microservices, I’ve also worked on building custom frameworks and APIs, always driven by a desire to solve complex problems with simplicity and efficiency. My ability to adapt to new technologies and languages has allowed me to collaborate successfully with diverse teams in startups and large corporations.
+    
+    But what truly defines me is my belief in the power of thoughtful details. Whether it’s crafting a secure e-commerce platform or developing a dynamic app, I approach each project with discipline, curiosity, and an eye for innovation.
 
 education:
   title: Education
   info:
+  - degree: Android Programming
+    university: ITMaster Academy
+    time: 2015
   - degree: PHP Expert
     university: ITMaster Academy
     time: 2008 - 2009
@@ -60,25 +82,25 @@ experiences:
     time: 2019 - Present
     company: ITX Corp.
     details: |
-      - Developed and maintained scalable web applications with Ruby on Rails, PHP, and ColdFusion.
-      - Led the migration to modern authentication systems improving security and performance.
-      - Optimized system response times by 35% and reduced deployment errors by 40%.
-      - Designed and implemented microservices architecture, improving system modularity and scalability.
-      - Integrated CI/CD pipelines using Docker, Jenkins, and GitHub Actions.
+      - Built and maintained scalable web applications, including a POS system using ColdFusion, Ruby on Rails, AngularJS, and ReactJS.
+      - Led the migration to the latest version of Auth0, improving security and API reliability by 20%.
+      - Delivered high-quality, optimized code with less than a 1% defect rate, focusing on scalability.
+      - Mentored team members and ensured projects met stringent quality standards.
+      - Improved server response times by 35% and reduced deployment errors by 40%.
   - role: Senior Magento 2 Developer
     time: 2018 - 2019
     company: ITX Corp.
     details: |
-      - Designed and optimized Magento 2 solutions for high-traffic e-commerce platforms.
-      - Migrated legacy systems and improved performance, enhancing load speeds by 25%.
-      - Implemented caching mechanisms and database optimizations, reducing latency.
+      - Played a key role in launching a Magento 2 Enterprise Edition platform, designing scalable solutions.
+      - Migrated 15+ custom modules from legacy systems to Magento 2, ensuring 100% data integrity.
+      - Developed and tested advanced payment gateways and shipping integrations for seamless transactions.
   - role: Full Stack Developer
     time: 2011 - Present
     company: Freelance
     details: |
-      - Built and maintained custom e-commerce solutions in Magento, PHP, and Laravel.
-      - Developed APIs and integrations with third-party services.
-      - Provided consulting on cloud deployment strategies and security best practices.
+      - Specialized in e-commerce solutions, primarily Magento 1 & 2, PHP, and Laravel.
+      - Developed APIs, improved frontend usability, and enhanced security for multiple platforms.
+      - Designed and optimized cloud-based solutions for enhanced performance.
 
 certifications:
   title: Certifications
@@ -89,26 +111,39 @@ certifications:
     organization: Magento
   - name: Microservices Software Architecture
     organization: ITMaster Academy
-  - name: AWS Certified Solutions Architect - Associate
-    organization: Amazon Web Services
+  - name: Mastering Magento 2
+    organization: Magento
+  - name: Java SE7 Fundamentals
+    organization: Oracle
 
-skills:
-  title: Skills & Proficiency
-  toolset:
-  - name: Magento & E-commerce Development
-    level: 100%
-  - name: PHP & Laravel
-    level: 98%
-  - name: Ruby on Rails
-    level: 90%
-  - name: Flutter & Mobile Development
-    level: 85%
-  - name: Microservices & API Development
-    level: 80%
-  - name: Docker & CI/CD
-    level: 75%
-  - name: AWS & Cloud Infrastructure
-    level: 70%
+courses:
+  title: Courses
+  list:
+  - name: Advanced JavaScript & ES6
+    organization: Udemy
+  - name: Kubernetes for Developers
+    organization: Linux Foundation
+  - name: Cloud Security Fundamentals
+    organization: Google Cloud
+
+recommendations:
+  title: Recommendations
+  list:
+  - person: Carlos Cavalcanti
+    role: Senior Software Engineer (Ruby on Rails | AWS | SQL)
+    recommendation: "Mauricio is a highly skilled developer with deep expertise in multiple technologies. His adaptability and leadership make him a valuable asset to any team."
+  - person: Dario Alejandro Diaz
+    role: QA Engineer
+    recommendation: "Mauricio’s problem-solving abilities and technical knowledge are outstanding. He consistently delivers high-quality solutions and supports his team effectively."
+  - person: Natalia Settimi
+    role: Product Designer
+    recommendation: "Mauricio is an experienced professional who shares knowledge with patience and enthusiasm. A great leader and team player."
+  - person: Jennifer Tello
+    role: Senior Consultant at Slalom
+    recommendation: "Mauricio has been a tremendous value to my team and collaborated well with others. His skills and work ethic showed every week. Highly recommended!"
+  - person: Dijana Hodzic
+    role: Government and Public Services Consultant at Deloitte
+    recommendation: "Mauricio is hardworking, highly skilled, and always available to answer questions. A great asset to any team."
 
 footer: >
   Built with <i class="fas fa-heart"></i> by Mauricio Gaston Pineda

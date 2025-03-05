@@ -1,28 +1,43 @@
 ---
-#Add "layout: compress" here to compress the html code
+layout: compress
 ---
 
 <!DOCTYPE html>
-<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
-<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
-<!--[if !IE]><!-->
 <html lang="en">
-  <!--<![endif]-->
   {% include head.html %}
+  
   <style>
-    body {
-      padding: 0 !important;
-    }
     .wrapper {
-      max-width: unset !important;
+      display: block;
     }
+    .skillset{
+        .skill-level {
+          display: block;
+        }
+      }
   </style>
+
   <body>
     <div class="wrapper">
-      {% include sidebar.html %}
+      <div class="main-wrapper">
+        
+        <!-- Encabezado con Nombre y Contacto -->
+        <div class="header">
+          <h1>{{ site.data.data.sidebar.name }}</h1>
+          <p>{{ site.data.data.sidebar.tagline }}</p>
+          <p>Email: {{ site.data.data.sidebar.email }} | Phone: {{ site.data.data.sidebar.phone }}</p>
+          <p>Website: {{ site.data.data.sidebar.website }} | LinkedIn: linkedin.com/in/{{ site.data.data.sidebar.linkedin }}</p>
+        </div>
 
-      <div class="main-wrapper">{{ content }}</div>
+        <!-- Secciones principales con includes -->
+        {% include career-profile.html %}
+        {% include skills.html %}
+        {% include experiences.html %}
+        {% include education.html %}
+        {% include certifications.html %}
+        {% include language.html %}
+
+      </div>
     </div>
-    {% include scripts.html %}
   </body>
 </html>
