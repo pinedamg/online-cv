@@ -14,9 +14,9 @@ sidebar:
   website: https://pinedamg.github.io
   linkedin: pinedamg
   github: pinedamg
-  twitter: '@pineda_mg'
+  # twitter: '@pineda_mg'
   linktree: https://linktr.ee/pinedamg
-  blog: https://pinedamg.medium.com/
+  medium: pinedamg
 
   languages:
     title: Languages
@@ -29,35 +29,27 @@ sidebar:
   interests:
     title: Interests
     info:
-    - item: Software Architecture
+    - item: Full Stack Web & Mobile Development
       link: 
-    - item: Blockchain & Cryptocurrencies
+    - item: AI & Automation in Software Engineering
       link: 
-    - item: Open Source Development
+    - item: Software Performance Optimization
       link: 
-    - item: Cloud Computing & DevOps
+    - item: Serverless Architectures & Edge Computing
       link: 
-    - item: AI & Machine Learning Exploration
+    - item: Modern Frontend & UI/UX Trends
       link: 
-    - item: Technical Blogging & Knowledge Sharing
+    - item: Open Source Contributions & Tech Communities
       link: 
-    - item: Mentoring Junior Developers
-      link: 
-    - item: Running & Fitness
+    - item: API Development & System Integrations
       link: 
 
 career-profile:
   title: Career Profile
-  summary: |
-    Hi there! Your presence here means a lot to me, and I genuinely appreciate you taking the time to connect. Let me give you a glimpse into who I am.
-    
-    I’m Mauricio Gastón Pineda, a Full Stack Developer from Tigre, Buenos Aires, Argentina. But more than that, I’m someone who fell in love with programming at an early age. At around 8 years old, I started tinkering with LOGO—the one with the turtle—and would spend hours building creations with Legos, imagining endless possibilities. That passion never left me; it only grew stronger.
-    
-    Over the years, this fascination shaped my career. I embraced a love for elegant software design and best practices, starting with PHP, exploring Zend Framework, and immersing myself in the Magento E-commerce Platform. I’ve been privileged to lead challenging projects, from migrating monolithic architectures to microservices to enhancing security, performance, and scalability for e-commerce businesses.
-    
-    Beyond my deep expertise in Magento, PHP, Flutter, Ruby, and microservices, I’ve also worked on building custom frameworks and APIs, always driven by a desire to solve complex problems with simplicity and efficiency. My ability to adapt to new technologies and languages has allowed me to collaborate successfully with diverse teams in startups and large corporations.
-    
-    But what truly defines me is my belief in the power of thoughtful details. Whether it’s crafting a secure e-commerce platform or developing a dynamic app, I approach each project with discipline, curiosity, and an eye for innovation.
+  summary: | 
+    As a Full Stack Developer, I focus on creating scalable, high-performance solutions for e-commerce and enterprise applications. My expertise spans Magento, PHP, Ruby on Rails, and Flutter, with a strong emphasis on API development, microservices, and system efficiency. I approach every project with a problem-solving mindset, ensuring optimal performance and long-term maintainability.
+
+    Beyond my core stack, I have extensive experience with Java, ColdFusion, React, and Angular, allowing me to adapt to diverse technical environments. I specialize in payment gateway integrations, authentication systems like Auth0, and workflow automation, streamlining processes to enhance efficiency. My experience working with infrastructure and CI/CD pipelines has given me a broader perspective on automation and deployment strategies, allowing me to build solutions that are both robust and scalable.
 
 education:
   title: Education
@@ -80,51 +72,142 @@ experiences:
   info:
   - role: Tech Lead | Full Stack Developer
     time: 2019 - Present
-    company: ITX Corp.
+    company: ITX Corp, Remote
     details: |
-      - Built and maintained scalable web applications, including a POS system using ColdFusion, Ruby on Rails, AngularJS, and ReactJS.
-      - Led the migration to the latest version of Auth0, improving security and API reliability by 20%.
-      - Delivered high-quality, optimized code with less than a 1% defect rate, focusing on scalability.
-      - Mentored team members and ensured projects met stringent quality standards.
-      - Improved server response times by 35% and reduced deployment errors by 40%.
+      Leading the development of scalable web applications and microservices using Coldfusion, Ruby on Rails and Angular JS frameworks. Worked on both client and internal projects, integrating modern technologies for performance and automation.
+        - Optimized core Ruby on Rails and ColdFusion codebases, improving response times by 35%.
+        - Led the migration to the latest version of Auth0, enhancing security and API reliability by 20%.
+        - Implemented CI/CD optimizations, reducing deployment time by 40%.
+        - Developed and maintained a POS system integrating wireless payment processing for mobile WebView environments.
+        - Built **React** applications for both **client-facing products and internal tools**.
+        - Developed **Java Spring Boot** microservices, enhancing system modularity and performance.
+        - Integrated **AI-powered solutions using Python**, improving automation and business intelligence.
+        - Worked with **Angular JS** for client-side implementations in enterprise applications.
+
   - role: Senior Magento 2 Developer
     time: 2018 - 2019
-    company: ITX Corp.
+    company: ITX Corp, Remote
     details: |
-      - Played a key role in launching a Magento 2 Enterprise Edition platform, designing scalable solutions.
-      - Migrated 15+ custom modules from legacy systems to Magento 2, ensuring 100% data integrity.
-      - Developed and tested advanced payment gateways and shipping integrations for seamless transactions.
-  - role: Full Stack Developer
-    time: 2011 - Present
-    company: Freelance
+      Contributed to the development of high-traffic Magento 2 Enterprise platforms, ensuring scalability and reliability.
+        - Improved platform performance, reducing page load times by 25%.
+        - Developed and tested custom Magento modules, including advanced payment gateways.
+        - Migrated 15+ custom modules from legacy systems to Magento 2 with 100% data integrity.
+        - Designed automated deployment pipelines, reducing manual errors by 30%.
+
+  - role: Senior Magento 2 Developer
+    time: 2017 - 2018
+    company: TradeHelm, Chicago Remote
     details: |
-      - Specialized in e-commerce solutions, primarily Magento 1 & 2, PHP, and Laravel.
-      - Developed APIs, improved frontend usability, and enhanced security for multiple platforms.
-      - Designed and optimized cloud-based solutions for enhanced performance.
+      Focused on Magento 1 to Magento 2 migrations and API integrations for enterprise clients.
+        - Migrated critical data and modules from Magento 1 to Magento 2 with zero downtime.
+        - Integrated third-party services such as Google APIs and OnFleet.
+        - Automated deployment pipelines, reducing deployment time and errors.
+
+  - role: Magento & PHP Full Stack Developer
+    time: 2017 - 2018
+    company: Arroyo Labs, Los Angeles Remote
+    details: |
+      Developed and maintained platforms using Magento 1 & 2, Drupal, and custom PHP frameworks.
+        - Designed and implemented custom libraries to extend platform functionality.
+        - Conducted system testing and resolved bugs for optimal stability.
+        - Maintained and optimized Drupal-based websites for performance and usability.
+
+  - role: Magento Developer & DevOps
+    time: 2012 - 2017
+    company: Up and Running Software, Iowa Remote
+    details: |
+      Contributed to over 35 Magento projects, handling API integrations, platform upgrades, and performance optimizations.
+        - Integrated Magento with third-party services like Walmart, Twilio, and Amazon MWS.
+        - Improved security and restored compromised sites.
+        - Designed scalable custom PHP frameworks.
+
+  - role: Full Stack Developer | E-commerce & System Architect
+    time: 2008 - 2017
+    company: Various Companies & Projects
+    details: |
+      Over nearly a decade, I worked across multiple companies as a **Full Stack Developer**, specializing in **Magento, PHP, and scalable e-commerce solutions**. I gained experience across different industries, refining my expertise in **backend, frontend, and system architecture**.
+        - Led critical **Magento 1 to Magento 2 migrations**, ensuring **zero downtime and full data integrity**.
+        - Built and optimized **custom PHP frameworks**, including Erdiko (Slim Framework-based) and Hydra.
+        - Integrated and maintained **e-commerce APIs** such as **Amazon MWS, Twilio, Walmart, and OnFleet**.
+        - Developed **payment gateway solutions** and **third-party integrations** for secure transactions.
+        - Strengthened security for **high-traffic platforms**, reducing vulnerabilities and increasing system resilience.
+        - Provided **Magento performance tuning**, optimizing **load times, scalability, and caching strategies**.
+        - Designed and managed **automated deployments and testing pipelines**, reducing deployment errors and increasing efficiency.
 
 certifications:
   title: Certifications
   list:
-  - name: Magento Developer Plus
-    organization: Magento
-  - name: Magento 2 Certified Trained Solution Partner
-    organization: Magento
-  - name: Microservices Software Architecture
-    organization: ITMaster Academy
-  - name: Mastering Magento 2
-    organization: Magento
-  - name: Java SE7 Fundamentals
-    organization: Oracle
-
-courses:
-  title: Courses
-  list:
-  - name: Advanced JavaScript & ES6
+  - name: Java Foundations
+    start: 2025
+    end:
     organization: Udemy
-  - name: Kubernetes for Developers
-    organization: Linux Foundation
-  - name: Cloud Security Fundamentals
-    organization: Google Cloud
+    credentialid: JF-2025-001
+    credentialurl: assets/certificates/Course Certificate - Java Foundations.jpg
+    details: |
+      Covers fundamental Java concepts, including object-oriented programming, data structures, and basic algorithms.
+
+  - name: Magento AI-Enhanced
+    start: 2025
+    end:
+    organization: Udemy
+    credentialid: MAI-2025-001
+    credentialurl: assets/certificates/Course Certificate - Magento AI-Enhanced.jpg
+    details: |
+      Focuses on integrating AI technologies into Magento, improving automation, recommendation systems, and analytics.
+
+  - name: Java Beginners
+    start: 2024
+    end:
+    organization: Udemy
+    credentialid: JB-2024-001
+    credentialurl: assets/certificates/Course Certificate - Java Beginners.jpg
+    details: |
+      Introduction to Java programming, covering syntax, control structures, and beginner-level application development.
+
+  - name: Ruby on Rails
+    start: 2020
+    end:
+    organization: Udemy
+    credentialid: ROR-2020-001
+    credentialurl: assets/certificates/Course Certificate - Ruby on Rails.jpg
+    details: |
+      Comprehensive course on Ruby on Rails, covering MVC architecture, RESTful APIs, and database management.
+
+  - name: Flutter & Dart Complete Guide
+    start: 2020
+    end:
+    organization: Udemy
+    credentialid: FD-2020-001
+    credentialurl: assets/certificates/Certificate - Flutter & Dart Complete Guide.jpg
+    details: |
+      Full-stack mobile development course on Flutter and Dart, focusing on UI design, state management, and backend integration.
+
+  - name: Jekyll
+    start: 2020
+    end:
+    organization: Udemy
+    credentialid: JK-2020-001
+    credentialurl: assets/certificates/Course Certificate - Jekyll.jpg
+    details: |
+      Covers the fundamentals of Jekyll, static site generation, and customization for personal blogs and portfolios.
+
+  - name: Mastering Magento
+    start: 2018
+    end:
+    organization: Udemy
+    credentialid: MM-2018-001
+    credentialurl: assets/certificates/Course Certificate - Mastering Magento.jpg
+    details: |
+      In-depth training on Magento development, covering customization, module creation, and performance optimization.
+
+  - name: Microservices
+    start: 2018
+    end:
+    organization: Udemy
+    credentialid: MS-2018-001
+    credentialurl: assets/certificates/Course Certificate - Microservices.jpg
+    details: |
+      Covers the principles of microservices architecture, service communication, and deployment strategies.
 
 recommendations:
   title: Recommendations
@@ -144,6 +227,39 @@ recommendations:
   - person: Dijana Hodzic
     role: Government and Public Services Consultant at Deloitte
     recommendation: "Mauricio is hardworking, highly skilled, and always available to answer questions. A great asset to any team."
+
+skills:
+  title: Skills & Proficiency
+
+  toolset:
+  - name: PHP, Frameworks and Magento
+    level: 98%
+  - name: Ruby on Rails
+    level: 95%
+  - name: API Development & Integrations (REST, GraphQL)
+    level: 90%
+  - name: Performance Optimization & Caching (Redis, Varnish)
+    level: 85%
+  - name: Microservices & Scalable Architectures
+    level: 80%
+  - name: JavaScript (ES6+), React & Angular
+    level: 80%
+  - name: Flutter & Dart
+    level: 75%
+  - name: Authentication & Security (Auth0, OAuth, JWT)
+    level: 75%
+  - name: Cloud Platforms (Firebase, AWS, DigitalOcean)
+    level: 60%
+  - name: Java & Spring Boot
+    level: 60%
+  - name: Python & AI Integrations
+    level: 55%
+  - name: NoSQL & SQL Databases (MySQL, PostgreSQL, Firestore)
+    level: 55%
+  - name: CI/CD & Workflow Automation
+    level: 55%
+  - name: DevOps & Containerization (Docker, Kubernetes)
+    level: 50%
 
 footer: >
   Built with <i class="fas fa-heart"></i> by Mauricio Gaston Pineda
