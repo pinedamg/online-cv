@@ -6,14 +6,13 @@ sidebar:
   tagline: Full Stack Developer | Magento, PHP, Flutter & Ruby | 15+ Years in E-commerce Solutions | Coding with Passion and Precision
   avatar: profile.jpg
   email: pinedamg@gmail.com
-  phone: +54 11 3501 1267
+  phone: "+54 11 3501 1267"
   timezone: America/Argentina/Buenos_Aires
   citizenship: Argentina
   website: https://pinedamg.github.io
   linkedin: pinedamg
   github: pinedamg
   medium: pinedamg
-
   languages:
     title: Languages
     info:
@@ -21,7 +20,6 @@ sidebar:
       level: Native
     - idiom: English
       level: Professional Working
-
   interests:
     title: Personal Projects & Research
     info:
@@ -29,12 +27,10 @@ sidebar:
     - item: Configurable Flutter Starter Kit (Open Source)
     - item: Software Performance Optimization
     - item: API Development & System Integrations
-
 career-profile:
   title: Career Profile
   summary: |
     Full Stack Developer with over 15 years of experience designing, building, and modernizing web and mobile applications. My background spans from creating high-performance e-commerce platforms with **PHP and Magento** to modernizing legacy systems into microservice architectures with **Java (Spring Boot) and Ruby on Rails**. I round out my profile with cross-platform mobile development using **Flutter**, demonstrating a passion for problem-solving and continuous technological adaptation.
-
 education:
   title: Education
   info:
@@ -50,7 +46,6 @@ education:
   - degree: Computer Technical
     university: Alte. Guillermo Brown
     time: '2000 - 2006'
-
 experiences:
   title: Experiences
   info:
@@ -180,64 +175,75 @@ experiences:
       - Contributed to the design and development of a multi-tenant tourism site builder, with the initial flagship project being `Viaja por Madryn`.
       - Engineered a modular platform in PHP that allowed different types of tourism businesses (transport agencies, tour operators, activity providers) to create and manage their own presence.
       - Delivered a reusable and scalable solution that served as the foundation for multiple tourism portals in the Argentine Patagonia, gaining key experience in modular architecture and theming.
-
 certifications:
   title: Certifications
   list:
   - name: Magento Developer Plus
     organization: Adobe (via Magento)
-    details: Official certification validating deep expertise in Magento development, customization, and architecture.
+    details: |
+      Official certification validating deep expertise in Magento development, customization, and architecture.
   - name: Magento 2 Certified Trained Solution Partner
     organization: Adobe (via Magento)
-    details: Certification for partners demonstrating proficiency in implementing and customizing Magento 2 solutions.
+    details: |
+      Certification for partners demonstrating proficiency in implementing and customizing Magento 2 solutions.
   - name: Microservices Software Architecture
     organization: Udemy
     credentialurl: assets/certificates/Course Certificate - Microservices.jpg
-    details: Covers the principles of microservices architecture, service communication, and deployment strategies.
+    details: |
+      Covers the principles of microservices architecture, service communication, and deployment strategies.
   - name: Mastering Magento 2
     organization: Udemy
     credentialurl: assets/certificates/Course Certificate - Mastering Magento.jpg
-    details: In-depth training on Magento 2 development, covering customization, module creation, and performance optimization.
+    details: |
+      In-depth training on Magento 2 development, covering customization, module creation, and performance optimization.
   - name: Java SE7 Fundamentals
     organization: Oracle (via Udemy)
     credentialurl: assets/certificates/Course Certificate - Java Foundations.jpg
-    details: Covers fundamental Java concepts, including object-oriented programming, data structures, and basic algorithms.
+    details: |
+      Covers fundamental Java concepts, including object-oriented programming, data structures, and basic algorithms.
   - name: The Complete Ruby on Rails Developer Course
     organization: Udemy
     credentialurl: assets/certificates/Course Certificate - Ruby on Rails.jpg
-    details: Comprehensive course on Ruby on Rails, covering MVC architecture, RESTful APIs, and database management.
+    details: |
+      Comprehensive course on Ruby on Rails, covering MVC architecture, RESTful APIs, and database management.
   - name: Secure Product Lifecycle 101
     organization: Udemy
     credentialurl: assets/certificates/Course Certificate - Secure Product Lifecycle.jpg
-    details: Introduction to security best practices across the entire software development lifecycle.
+    details: |
+      Introduction to security best practices across the entire software development lifecycle.
   - name: OWASP Top 10 Web Application Security
     organization: Udemy
     credentialurl: assets/certificates/Course Certificate - Owasp.jpg
-    details: Focuses on identifying and mitigating the most common and critical web application security risks.
+    details: |
+      Focuses on identifying and mitigating the most common and critical web application security risks.
   - name: Flutter & Dart Complete Guide
     organization: Udemy
     credentialurl: assets/certificates/Certificate - Flutter & Dart Complete Guide.jpg
-    details: Full-stack mobile development course on Flutter and Dart, focusing on UI design, state management, and backend integration.
-
+    details: |
+      Full-stack mobile development course on Flutter and Dart, focusing on UI design, state management, and backend integration.
 recommendations:
   title: Recommendations
   list:
   - person: Carlos Cavalcanti
     role: Senior Software Engineer (Ruby on Rails | AWS | SQL)
-    recommendation: "Mauricio is a highly skilled developer with deep expertise in multiple technologies. His adaptability and leadership make him a valuable asset to any team."
+    recommendation: |
+      Mauricio is a highly skilled developer with deep expertise in multiple technologies. His adaptability and leadership make him a valuable asset to any team.
   - person: Dario Alejandro Diaz
     role: QA Engineer
-    recommendation: "Mauricio’s problem-solving abilities and technical knowledge are outstanding. He consistently delivers high-quality solutions and supports his team effectively."
+    recommendation: |
+      Mauricio’s problem-solving abilities and technical knowledge are outstanding. He consistently delivers high-quality solutions and supports his team effectively.
   - person: Natalia Settimi
     role: Product Designer
-    recommendation: "Mauricio is an experienced professional who shares knowledge with patience and enthusiasm. A great leader and team player."
+    recommendation: |
+      Mauricio is an experienced professional who shares knowledge with patience and enthusiasm. A great leader and team player.
   - person: Jennifer Tello
     role: Senior Consultant at Slalom
-    recommendation: "Mauricio has been a tremendous value to my team and collaborated well with others. His skills and work ethic showed every week. Highly recommended!"
+    recommendation: |
+      Mauricio has been a tremendous value to my team and collaborated well with others. His skills and work ethic showed every week. Highly recommended!
   - person: Dijana Hodzic
     role: Government and Public Services Consultant at Deloitte
-    recommendation: "Mauricio is hardworking, highly skilled, and always available to answer questions. A great asset to any team."
-
+    recommendation: |
+      Mauricio is hardworking, highly skilled, and always available to answer questions. A great asset to any team.
 publications:
   title: Publications
   intro: |
@@ -251,14 +257,14 @@ publications:
     link: https://pinedamg.medium.com/magento-v1-performance-improvements-part-2-1c8d3521331a
   - title: MAGENTO V1 PERFORMANCE IMPROVEMENTS ADVANCED TASKS
     link: https://pinedamg.medium.com/magento-v1-performance-improvements-advanced-tasks-5544b982221b
-
 projects:
   title: Personal Projects
+  intro: ""
   assignments:
   - title: AI-Powered Automation & Tooling
+    link: "#"
     tagline: "Actively researching and implementing solutions with Large Language Models (LLMs), including proof-of-concept applications using Retrieval-Augmented Generation (RAG) to interact with custom knowledge bases."
-
-oss-contributions:
+oss:
   title: Open Source Contributions
   intro: |
     I believe in the power of open source and enjoy contributing to the community. Here is a key project I have open-sourced.
@@ -266,10 +272,8 @@ oss-contributions:
   - title: Configurable Flutter Starter Kit
     link: "https://github.com/pinedamg/flutter-getx-template"
     tagline: "A highly configurable Flutter starter kit on GitHub (using GetX), providing a complete foundation for new apps with customizable authentication, onboarding, and theming to accelerate development."
-
 skills:
   title: Skills & Proficiency
-
   toolset:
   - name: PHP & Frameworks (Zend, Laravel)
     level: 98%
@@ -295,6 +299,5 @@ skills:
     level: 65%
   - name: Python & AI Integrations
     level: 60%
-
 footer: >
   Built with <i class="fas fa-heart"></i> by Mauricio Gaston Pineda
