@@ -1,9 +1,36 @@
-$theme-color: #1E3A8A; // Azul cobalto, profesional y versátil
-$primary-color: #FF6F00; // Naranja fuego, destaca elementos clave
-$secondary-color: #FFC857; // Amarillo pastel, suaviza el contraste
-$text-color: #B0BEC5; // Gris azulado medio, más oscuro que el anterior para mejorar contraste
-$text-color-secondary: #90A4AE; // Gris azulado un poco más suave que el texto principal
-$text-grey: #607D8B; // Azul grisáceo más oscuro para dar profundidad sin perder claridad
-$divider: #253A5E; // Azul oscuro pero con matiz amigable
-$smoky-white: #F2F2F2; // Blanco suave para mejorar lectura
-$heart: #E63946; // Rojo vibrante para pequeños acentos
+/*
+ * Pineda Skin
+ *
+ * A professional, high-contrast color scheme.
+*/
+
+// Main theme color for headers, sidebar, and primary accents.
+$theme-color: #1E3A8A; // Professional Cobalt Blue
+
+// Accent color for links and highlights.
+$primary-color: #FF6F00; // Vibrant Orange for emphasis
+
+// Accent color for subtle highlights.
+$secondary-color: #FFC857;
+
+// --- High-Contrast Text & Background ---
+
+// Main background color. Using pure white for maximum readability.
+$smoky-white: #FFFFFF;
+
+// Main text color. A dark gray for excellent contrast against the white background.
+$text-color: #343A40;
+
+// Secondary text color for less prominent information.
+$text-color-secondary: #6C757D;
+
+// A slightly darker gray, can be used for headings or sub-headings.
+$text-grey: #495057;
+
+// --- Utility Colors ---
+
+// Divider color for borders and <hr> tags.
+$divider: #E9ECEF; // Light gray for subtle separation
+
+// Color for the heart icon in the footer.
+$heart: #E63946; // Vibrant Red
