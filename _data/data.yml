@@ -2,10 +2,9 @@ sidebar:
   position: left
   about: True
   education: True
-
-    tagline: Full Stack Developer | Magento, PHP, Flutter & Ruby | 15+ Years in E-commerce Solutions | Coding with Passion and Precision
+  name: Mauricio Gaston Pineda
+  tagline: Full Stack Developer | Magento, PHP, Flutter & Ruby | 15+ Years in E-commerce Solutions | Coding with Passion and Precision
   avatar: profile.jpg
-
   email: pinedamg@gmail.com
   phone: +54 11 3501 1267
   timezone: America/Argentina/Buenos_Aires
@@ -13,8 +12,6 @@ sidebar:
   website: https://pinedamg.github.io
   linkedin: pinedamg
   github: pinedamg
-  # twitter: '@pineda_mg'
-  linktree: https://linktr.ee/pinedamg
   medium: pinedamg
 
   languages:
@@ -24,99 +21,35 @@ sidebar:
       level: Native
     - idiom: English
       level: Professional Working
-
-  interests:
-    title: Interests
-    info:
-    - item: Full Stack Web & Mobile Development
-      link: 
-    - item: AI & Automation in Software Engineering
-      link: 
-    - item: Software Performance Optimization
-      link: 
-    - item: Serverless Architectures & Edge Computing
-      link: 
-    - item: Modern Frontend & UI/UX Trends
-      link: 
-    - item: Open Source Contributions & Tech Communities
-      link: 
-    - item: API Development & System Integrations
-      link: 
-
-career-profile:
-  title: Career Profile
-  summary: | 
-    Full Stack Developer with over 15 years of experience designing, building, and modernizing web and mobile applications. My background spans from creating high-performance e-commerce platforms with **PHP and Magento** to modernizing legacy systems into microservice architectures with **Java (Spring Boot) and Ruby on Rails**. I round out my profile with cross-platform mobile development using **Flutter**, demonstrating a passion for problem-solving and continuous technological adaptation.
-
-  email: pinedamg@gmail.com
-  phone: +54 11 3501 1267
-  timezone: America/Argentina/Buenos_Aires
-  citizenship: Argentina
-  website: https://pinedamg.github.io
-  linkedin: pinedamg
-  github: pinedamg
-  # twitter: '@pineda_mg'
-  linktree: https://linktr.ee/pinedamg
-  medium: pinedamg
-
-  languages:
-    title: Languages
-    info:
-    - idiom: Spanish
-      level: Native
-    - idiom: English
-      level: Professional Working
-
-  interests:
-    title: Interests
-    info:
-    - item: Full Stack Web & Mobile Development
-      link: 
-    - item: AI & Automation in Software Engineering
-      link: 
-    - item: Software Performance Optimization
-      link: 
-    - item: Serverless Architectures & Edge Computing
-      link: 
-    - item: Modern Frontend & UI/UX Trends
-      link: 
-    - item: Open Source Contributions & Tech Communities
-      link: 
-    - item: API Development & System Integrations
-      link: 
-
-career-profile:
-  title: Career Profile
-  summary: | 
-    Full Stack Developer with over 15 years of experience designing, building, and modernizing web and mobile applications. My background spans from creating high-performance e-commerce platforms with **PHP and Magento** to modernizing legacy systems into microservice architectures with **Java (Spring Boot) and Ruby on Rails**. I round out my profile with cross-platform mobile development using **Flutter**, demonstrating a passion for problem-solving and continuous technological adaptation.
 
   interests:
     title: Personal Projects & Research
     info:
     - item: AI-Powered Automation & Tooling (RAG, LLMs)
-      link: 
     - item: Configurable Flutter Starter Kit (Open Source)
-      link: 
     - item: Software Performance Optimization
-      link: 
     - item: API Development & System Integrations
-      link:
+
+career-profile:
+  title: Career Profile
+  summary: |
+    Full Stack Developer with over 15 years of experience designing, building, and modernizing web and mobile applications. My background spans from creating high-performance e-commerce platforms with **PHP and Magento** to modernizing legacy systems into microservice architectures with **Java (Spring Boot) and Ruby on Rails**. I round out my profile with cross-platform mobile development using **Flutter**, demonstrating a passion for problem-solving and continuous technological adaptation.
 
 education:
   title: Education
   info:
   - degree: Android Programming
     university: ITMaster Academy
-    time: 2015
+    time: '2015'
   - degree: PHP Expert
     university: ITMaster Academy
-    time: 2008 - 2009
+    time: '2008 - 2009'
   - degree: Web Developer
     university: ITMaster Academy
-    time: 2007 - 2008
+    time: '2007 - 2008'
   - degree: Computer Technical
     university: Alte. Guillermo Brown
-    time: 2000 - 2006
+    time: '2000 - 2006'
 
 experiences:
   title: Experiences
