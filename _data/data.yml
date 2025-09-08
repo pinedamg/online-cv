@@ -3,7 +3,7 @@ sidebar:
   about: True
   education: True
   name: Mauricio Gaston Pineda
-  tagline: Full Stack Developer | Magento, PHP, Flutter & Ruby | 15+ Years in E-commerce Solutions | Coding with Passion and Precision
+  tagline: "Full Stack Developer | Magento, PHP, Flutter & Ruby | 15+ Years in E-commerce Solutions | Coding with Passion and Precision"
   avatar: profile.jpg
   email: pinedamg@gmail.com
   phone: "+54 11 3501 1267"
@@ -23,7 +23,7 @@ sidebar:
   interests:
     title: Personal Projects & Research
     info:
-    - item: AI-Powered Automation & Tooling (RAG, LLMs)
+    - item: "AI-Powered Automation & Tooling (RAG, LLMs)"
     - item: Configurable Flutter Starter Kit (Open Source)
     - item: Software Performance Optimization
     - item: API Development & System Integrations
@@ -67,7 +67,7 @@ experiences:
       - Drove a major refactoring effort to decouple core components and eliminate code duplication, significantly improving the long-term maintainability and development velocity of the new Rails codebase.
       - Engineered the new platform to significantly outperform the previous monolith, implementing robust caching systems and optimizing database queries to handle high-traffic loads without performance degradation.
       - Designed and implemented a resilient data synchronization pipeline between the Rails application and BigCommerce, using Terraform on AWS to ensure data consistency and prevent data loss.
-  - role: Senior Fullstack Developer (ColdFusion)
+  - role: "Senior Fullstack Developer (ColdFusion)"
     time: May 2020 - January 2024
     company: ITX Corp.
     details: |
@@ -76,13 +76,13 @@ experiences:
       - Led key modernization and integration projects, including implementing Avalara for real-time tax calculation, adding new payment methods with enhanced 3DS2 support, and executing the critical Auth0 migration from legacy Hooks to Actions across the entire service ecosystem.
       - Developed and maintained features across a complex, distributed e-commerce platform, including the core ColdFusion backend, AngularJS frontend, public APIs, and separate fulfillment and internal messaging services.
       - Enhanced developer productivity by improving an internal Node.js CLI for direct database access and creating a dedicated debugger for the ColdFusion application, significantly speeding up testing and debugging cycles for the team.
-  - role: Fullstack Developer (Internal Tools: React/Node)
+  - role: "Fullstack Developer (Internal Tools: React/Node)"
     time: November 2019 - April 2020
     company: ITX Corp.
     details: |
       - Developed an internal chatbot using React and TypeScript that integrated with the Office 365 ecosystem, allowing non-technical users to easily query and interact with SharePoint data through a conversational interface.
       - Built and maintained a suite of internal CLI tools using Node.js to automate and streamline developer workflows, providing a simple and powerful interface for interacting with various company APIs and services.
-  - role: Tech Lead (Magento)
+  - role: "Tech Lead (Magento)"
     time: June 2018 - October 2019
     company: ITX Corp.
     details: |
@@ -90,9 +90,9 @@ experiences:
       - Drove application-level performance gains by refactoring core Magento data-loading mechanisms and building a custom, high-performance import solution to manage a complex product catalog with a large number of attributes.
       - Guided the development of a dual-frontend system to provide tailored experiences for B2C and B2B customer segments, and led the integration of Stripe for payments and Avalara for tax automation.
       - Oversaw and implemented the necessary adjustments to the payment processing workflow to ensure the platform met PCI compliance standards, securing customer data and reducing business risk.
-  - role: Freelance | Full Stack Developer
+  - role: "Freelance | Full Stack Developer"
     time: 2011 - July 2018 (7 years)
-    company: MPineda (Freelance)
+    company: "MPineda (Freelance)"
     details: |
       - Architected and launched a hybrid Flutter application to extend a Magento e-commerce platform to mobile, featuring a custom native menu that directly interacted with the web content and segmented push notifications to drive user engagement.
       - Led end-to-end development and optimization for diverse clients, specializing in e-commerce solutions (Magento 1.x) and custom web applications (Zend Framework, CakePHP).
@@ -111,7 +111,7 @@ experiences:
       - Designed and established automated deployment pipelines, streamlining development workflows and accelerating feature delivery.
       - Integrated essential third-party APIs, including Google, OnFleet, and Shipping Easy, to enhance platform functionality and connectivity.
       - Consistently delivered robust Magento 2 solutions, resulting in improved system stability and reduced post-migration issues.
-  - role: Magento 1 & 2, PHP FullStack Developer
+  - role: "Magento 1 & 2, PHP FullStack Developer"
     time: October 2016 - October 2017 (1 year 1 month)
     company: Arroyo Labs
     details: |
@@ -120,9 +120,9 @@ experiences:
       - Maintained and enhanced Drupal 7-based websites, including Kitchfix and wheretowatch.com, ensuring platform stability and performance.
       - Streamlined deployment processes by implementing CI-friendly automation, significantly reducing deployment errors and improving release efficiency.
       - Contributed to both Magento 1 and Magento 2 projects, demonstrating versatility across different versions of the platform.
-  - role: Magento Developer & DevOps
+  - role: "Magento Developer & DevOps"
     time: June 2012 - September 2016 (4 years 4 months)
-    company: Up and Running Software, Inc.
+    company: "Up and Running Software, Inc."
     details: |
       - Contributed to the development and optimization of over 35 Magento websites, including e-commerce platforms for Gerber Childrenswear, Just Born, Stoelting Co, AccuQuilt, AccuCut, BuyCoolNow, Garrett Wade, SubaruPartsForYou, Workstage, WorkwearUSA, Eyetique, JCSMOKE, Sounds True, and Ybuy.
       - Significantly improved page load times and overall site performance through extensive optimization efforts, resulting in enhanced user experience and conversion rates.
@@ -168,7 +168,7 @@ experiences:
       - Co-architected and developed "Hydra," a modular, custom-built PHP framework from scratch to standardize and accelerate the creation of marketing campaigns for `Unilever`.
       - The framework featured a core "head" with pluggable "tentacle" modules for common campaign needs like landing pages, submission forms, contests, and prize management.
       - Utilized Hydra to deliver multiple successful promotional sites for top Unilever brands (e.g., Knorr, Sedal), significantly reducing development time and ensuring a consistent, high-quality structure.
-  - role: Junior | Semi Senior PHP Developer
+  - role: "Junior | Semi Senior PHP Developer"
     time: June 2007 - April 2008 (11 months)
     company: Lemot
     details: |
@@ -179,11 +179,11 @@ certifications:
   title: Certifications
   list:
   - name: Magento Developer Plus
-    organization: Adobe (via Magento)
+    organization: "Adobe (via Magento)"
     details: |
       Official certification validating deep expertise in Magento development, customization, and architecture.
   - name: Magento 2 Certified Trained Solution Partner
-    organization: Adobe (via Magento)
+    organization: "Adobe (via Magento)"
     details: |
       Certification for partners demonstrating proficiency in implementing and customizing Magento 2 solutions.
   - name: Microservices Software Architecture
@@ -197,7 +197,7 @@ certifications:
     details: |
       In-depth training on Magento 2 development, covering customization, module creation, and performance optimization.
   - name: Java SE7 Fundamentals
-    organization: Oracle (via Udemy)
+    organization: "Oracle (via Udemy)"
     credentialurl: assets/certificates/Course Certificate - Java Foundations.jpg
     details: |
       Covers fundamental Java concepts, including object-oriented programming, data structures, and basic algorithms.
@@ -216,7 +216,7 @@ certifications:
     credentialurl: assets/certificates/Course Certificate - Owasp.jpg
     details: |
       Focuses on identifying and mitigating the most common and critical web application security risks.
-  - name: Flutter & Dart Complete Guide
+  - name: "Flutter & Dart Complete Guide"
     organization: Udemy
     credentialurl: assets/certificates/Certificate - Flutter & Dart Complete Guide.jpg
     details: |
@@ -225,7 +225,7 @@ recommendations:
   title: Recommendations
   list:
   - person: Carlos Cavalcanti
-    role: Senior Software Engineer (Ruby on Rails | AWS | SQL)
+    role: "Senior Software Engineer (Ruby on Rails | AWS | SQL)"
     recommendation: |
       Mauricio is a highly skilled developer with deep expertise in multiple technologies. His adaptability and leadership make him a valuable asset to any team.
   - person: Dario Alejandro Diaz
@@ -261,7 +261,7 @@ projects:
   title: Personal Projects
   intro: ""
   assignments:
-  - title: AI-Powered Automation & Tooling
+  - title: "AI-Powered Automation & Tooling"
     link: "#"
     tagline: "Actively researching and implementing solutions with Large Language Models (LLMs), including proof-of-concept applications using Retrieval-Augmented Generation (RAG) to interact with custom knowledge bases."
 oss:
@@ -275,29 +275,29 @@ oss:
 skills:
   title: Skills & Proficiency
   toolset:
-  - name: PHP & Frameworks (Zend, Laravel)
+  - name: "PHP & Frameworks (Zend, Laravel)"
     level: 98%
-  - name: Magento (1 & 2) & E-commerce Architecture
+  - name: "Magento (1 & 2) & E-commerce Architecture"
     level: 95%
   - name: Ruby on Rails
     level: 90%
-  - name: Architectural Modernization & Refactoring
+  - name: "Architectural Modernization & Refactoring"
     level: 90%
-  - name: API Design & Development (REST, GraphQL)
+  - name: "API Design & Development (REST, GraphQL)"
     level: 85%
-  - name: JavaScript (ES6+), React & Angular
+  - name: "JavaScript (ES6+), React & Angular"
     level: 80%
   - name: Microservices Principles & Design
     level: 80%
-  - name: Flutter & Dart
+  - name: "Flutter & Dart"
     level: 75%
-  - name: Java & Spring Boot
+  - name: "Java & Spring Boot"
     level: 75%
-  - name: DevOps (Docker, CI/CD, AWS)
+  - name: "DevOps (Docker, CI/CD, AWS)"
     level: 70%
-  - name: Databases (MySQL, PostgreSQL, NoSQL)
+  - name: "Databases (MySQL, PostgreSQL, NoSQL)"
     level: 65%
-  - name: Python & AI Integrations
+  - name: "Python & AI Integrations"
     level: 60%
 footer: >
   Built with <i class="fas fa-heart"></i> by Mauricio Gaston Pineda
